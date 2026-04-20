@@ -99,3 +99,8 @@ ul, ol {
     text-align: left;
     margin: 0 auto;
 }
+
+.profile-pic {
+    width: 150px;
+    height: auto;
+}
